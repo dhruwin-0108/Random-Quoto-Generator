@@ -1,7 +1,7 @@
 let quoto = document.getElementById("quoto");
 let author = document.getElementById("author");
 let btn = document.getElementById("btn");
-let url = "http://api.quotable.io/random";
+let url = "https://api.quotable.io/random";
 let loader = document.querySelector(".loader");
 loader.style.display = 'none';
 
